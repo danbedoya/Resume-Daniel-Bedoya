@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Daniel Bedoya",
+    "occupation": "Full Stack Developer - Administrator Engenieering - Student Post-Degree Information and Communication Technology",
+    "description": "There is not such thing as luck when it comes to success. Have extremely high ambition and work hard for your dream and goals",
+    "image": "Profile-Picture-Square.jpeg",
+    "bio": "Dedicated and committed engineering manager and full stack developer graduated with over 7 years in overall work experience and 1 year as a Full-Stack Developer. Excellent interpersonal skills, open to working both independently of own initiative or as part of a successful team, with knowledge in different programming languages both Front-end and Back-End Technologies, organized, with a strong pipeline and achievement oriented. Web developer with a passion for web application development specially using React.js. Currently, looking to be a participant in a company development, where I can grow both professionally and personally, putting all my knowledge into practice.",
+    "contactmessage": "Get in touch with me if you want",
+    "email": "danielbedoyajaramillo@gmail.com",
+    "phone": "+1 604 313 6302",
+    "address": {
+      "street": "6588 Nelson Av",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "zip": "V5H 0E8"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://www.linkedin.com/in/danielbedoyaprofile/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/daniel.b.jaramillo/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/danielbedoyaj/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/danbedoya",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Douglas College - Vancouver - B.C",
+        "degree": "Post-graduate Degree Information and Communication Technology",
+        "graduated": "June 2021",
+        "description": "Database, Computer Network Security, Mobile Application Development, Software Engineering, Data Analytics, Multimedia Web Development."
+      },
+      {
+        "school": "Escuela de Ingenieria de Antioquia - COL",
+        "degree": "Bachelor’s Degree in Engineering Manager",
+        "graduated": "July 2013",
+        "description": "Macroeconomy, basic Science, financial mathematics, consumer behavior, preparation and evaluation of projects, Business modeling, and simulation"
+      }
+    ],
+    "work": [
+      {
+        "company": "Proteccion S.A",
+        "title": "Investment Solutions Manager",
+        "years": "Feb 2018 – May 2019",
+        "description": "Responsibilities represent an extension of my role in 2017.Being part of the 2018 best managers convention held in Miami.Increased the net value of my client's portfolio by 17% generating more value for the company."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "C#",
+        "level": "70%"
+      },
+      {
+        "name": "HTML, CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "Amazon-Clone.png",
+        "url": "https://clone-5a7de.web.app/"
+      },
+      {
+        "title": "Linkedin Clone(React JS)",
+        "category": "",
+        "image": "linkedin-Clone.png",
+        "url": "https://linkedid-clone-yt.web.app/"
+      },
+      {
+        "title": "Todo App (React JS)",
+        "category": "",
+        "image": "Todo-App.png",
+        "url": "https://todo-app-cp-e2ef5.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Amazing guy, easy to work it, very dedicated and intelligent",
+        "user": "Daniel Bedoya"
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
